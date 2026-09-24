@@ -27,9 +27,7 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 
 | Maletín Ejecutivo Gino Rodinis |
 | :---: |
-| ![Maletín Ejecutivo](maletin1.1.jpg) |
-
-*(Si tu archivo terminó en `.png`, solo cambia la extensión a `maletin1.1.png`)*
+| ![Maletín Ejecutivo](maletin1.1.png) |
 
 ---
 
@@ -54,7 +52,7 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 ### 4. Activo Audiovisual (Motion / Video Ads)
 *Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía de catálogo:*
 
-▶️ **[Ver Video Motion de Mochila GR en Alta Definición](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)**
+▶️ **[Ver Video Motion de Mochila GR en Reproductor Nativo](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)**
 
 ---
 
