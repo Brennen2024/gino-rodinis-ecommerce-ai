@@ -1,74 +1,79 @@
-# Portafolio: IA Generativa & Contenido Visual Multicanal
+# Portafolio: IA Generativa & Estrategia Visual Multicanal
 **Candidato:** Juan Ignacio Núñez Carrasco  
 **Posición:** Analista Ecommerce & IA Generativa — Gino Rodinis  
 
 ---
 
 ## 📌 Resumen Ejecutivo
-Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artificial Generativa**, **Estrategia Visual Multicanal** y optimización de contenido publicitario para el catálogo y canales digitales de **Gino Rodinis**. Se demuestra la capacidad de transformar fotografías de catálogo en piezas comerciales de alto impacto, preservando la fidelidad de materiales, colores, costuras y herrajes de la marca.
+Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artificial Generativa**, **Estrategia Visual Multicanal** y optimización de contenido publicitario para el catálogo y canales digitales de **Gino Rodinis**. 
+
+El objetivo central de este proyecto es demostrar cómo transformar activos de producto convencionales en piezas publicitarias y editoriales de alto impacto comercial, preservando estrictamente la identidad de marca, materialidad del cuero, costuras y herrajes metálicos distintivos.
 
 ---
 
-## 🎨 Casos Visuales de IA Generativa & Social Media
+## 🎨 Pipeline Metodológico de Producción con IA
 
-### Metodología & Pipeline de Trabajo
-1. **Activo Base de Producto:** Fotografías en estudio/catálogo de marroquinería (billeteras, bolsos de hombro, maletines ejecutivos y mochilas).
-2. **Generación Contextual (Image-to-Image / Inpainting):** Integración en entornos de estilo de vida y alta gama (lifestyle urbano, set minimalista y viaje de negocios), manteniendo proporción, costuras y branding distintivo.
-3. **Optimización Multicanal:** Adaptación de encuadres por canal de destino (1:1 para Feed/Catálogo y 9:16 para Stories/Reels).
-4. **Post-producción:** Ajuste de colorimetría, recorte y nitidez en Adobe Photoshop.
-5. **Animación y Motion Ads:** Conversión de tomas fijas a micro-video dinámico para mejorar tasas de retención (Thumbstop Ratio) y CTR en Meta Ads y TikTok.
+1. **Selección del Activo Base:** Fotografías de producto en estudio (fondo blanco o catálogo neutro) de marroquinería de Gino Rodinis.
+2. **Generación Contextual (Image-to-Image / Inpainting):** Integración del producto en locaciones de alto valor percibido (estilo de vida urbano europeo, sets minimalistas y entornos de viaje ejecutivo) manteniendo escala y proporción natural.
+3. **Control de Fidelidad de Producto:** Uso de máscaras de preservación y consistencia para evitar deformaciones en herrajes, texturas y logotipos grabados.
+4. **Optimización por Canal de Destino:** Adaptación de composición y aire de encuadre según el punto de contacto (1:1 para Feed/Catálogo y 9:16 para Stories/Reels/TikTok).
+5. **Post-producción Digital:** Calibración de colorimetría, recorte y micro-contraste en Adobe Photoshop.
+6. **Motion Ads & Animación:** Conversión de tomas estáticas a micro-video dinámico para mejorar tasas de retención (Thumbstop Ratio) en pauta pagada.
 
 ---
 
 ## 📸 Galería de Activos Desarrollados
 
-### 1. Campaña Editorial Ejecutiva (Línea Maletines GR)
-*Integración fotorrealista de producto en entorno internacional de alta gama (Londres):*
+### 1. Formato Cuadrado (1:1) — Campañas de Feed, Catálogo PDP & Google Shopping
+*Enfoque en valor percibido, apreciación de materiales, textura de cuero y escenarios editoriales:*
 
-| Maletín Ejecutivo Gino Rodinis |
-| :---: |
-| ![Maletín Ejecutivo](maletin1.1.png) |
-
----
-
-### 2. Formato Cuadrado (1:1) — Feed Instagram, Facebook & Catálogo
-*Tomas de detalle y composición enfocadas en materialidad, herrajes y textura:*
-
-| Billetera Clásica GR | Billetera Azul Navy |
-| :---: | :---: |
-| ![Wallet GR 1:1](wallet%20GR%201.1.png) | ![Wallet Azul 1:1](walletazul1.1.png) |
-
----
-
-### 3. Formato Vertical (9:16) — Stories, TikTok & Reels
-*Composiciones verticales de estilo de vida y banners para pauta móvil:*
-
-| Bolso Urbano en Tránsito | Detalle Lifestyle Tienda | Banner de Campaña 9:16 |
+| Campaña Editorial: Maletín Ejecutivo (Londres) | Detalle de Producto: Billetera Azul Navy | Bodegón Minimalista: Billetera Clásica GR |
 | :---: | :---: | :---: |
-| ![Bolso Viaje](Bolso9.16.jpeg) | ![Bolso Lifestyle](bolsoc9.16.png) | ![Banner 9:16](banner9.16.png) |
+| <img src="maletin-londres.png" width="280" alt="Maletín Ejecutivo Londres 1:1" /> | <img src="wallet-azul.png" width="280" alt="Billetera Azul Navy 1:1" /> | <img src="wallet-marron.png" width="280" alt="Billetera Clásica GR 1:1" /> |
+
+#### Estrategia y Casos de Uso (1:1):
+* **Campaña Editorial Masculina (`maletin-londres.png`):** Posicionamiento aspiracional en exteriores internacionales. Formato optimizado para carruseles de Instagram, pauta de consideración en Meta Ads y cabeceras de categoría ejecutiva.
+* **Toma de Textura & Color (`wallet-azul.png`):** Enfoque macro en grano de cuero y logotipo en relieve. Diseñado para reducir la tasa de devolución y aumentar la tasa de conversión en la página de producto (PDP).
+* **Composición Bodegón (`wallet-marron.png`):** Integración con accesorios de viaje y paleta neutra para campañas comerciales de temporada (Día del Padre, Cyber) y Anuncios Dinámicos de Producto (DPA).
 
 ---
 
-### 4. Activo Audiovisual (Motion / Video Ads)
-*Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía de catálogo:*
+### 2. Formato Vertical (9:16) — Stories, TikTok Ads & Reels
+*Composiciones verticales de estilo de vida, banners promocionales y formatos nativos para dispositivos móviles:*
 
-▶️ **[Ver Video Motion de Mochila GR en Reproductor Nativo](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)**
+| Bolso Urbano en Tránsito | Detalle Lifestyle Tienda | Banner Promocional de Campaña |
+| :---: | :---: | :---: |
+| <img src="bolso-metro.jpeg" width="220" alt="Bolso Urbano 9:16" /> | <img src="bolso-tienda.png" width="220" alt="Detalle Lifestyle Tienda 9:16" /> | <img src="banner-campana.png" width="220" alt="Banner Campaña 9:16" /> |
+
+#### Estrategia y Casos de Uso (9:16):
+* **Contexto de Movilidad (`bolso-metro.jpeg`):** Pieza diseñada para conectar con el público profesional joven en desplazamiento diario, maximizando engagement orgánico y conversiones directas en Stories.
+* **Experiencia de Tienda (`bolso-tienda.png`):** Contexto lifestyle enfocado en look & feel premium para captación en TikTok Ads y Reels.
+* **Banner Comercial 9:16 (`banner-campana.png`):** Estructura visual con espacio reservado para copy comercial, llamadas a la acción (CTA) o stickers interactivos de Instagram.
 
 ---
 
-## 📊 Matriz Estratégica de Formatos
+### 3. Activo Audiovisual Dinámico (Motion / Video Ads)
+*Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía estática de producto:*
 
-| Formato | Canales | Objetivo Principal | Métrica Clave |
+▶️ **[Hacer clic aquí para reproducir el Video Motion de la Mochila GR en pantalla completa](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)**
+
+* **Objetivo Publicitario:** Frenar el scroll del usuario en los primeros 3 segundos (Thumbstop Ratio) para reducir el Costo por Clic (CPC) y mejorar el retorno de la inversión publicitaria (ROAS).
+
+---
+
+## 📊 Matriz Estratégica de Formatos & KPIs
+
+| Formato | Canales | Objetivo Estratégico | KPI Principal |
 | :--- | :--- | :--- | :--- |
-| **Editorial / Lifestyle** | Campañas, Home Banner, Lookbook | Posicionamiento de marca y valor percibido | ROAS / Retención de Marca |
-| **Cuadrado (1:1)** | Feed Instagram, Facebook, PDP | Confianza, detalle de producto y adquisición | CTR / Tasa de Conversión |
-| **Vertical (9:16)** | Stories, Reels, TikTok | Branding contextual, alcance y engagement | VTR / Costo por Clic (CPC) |
-| **Micro-video Motion** | Meta Ads, TikTok Ads | Retención de audiencia y reducción de fricción | Thumbstop Ratio (3s) / ROAS |
+| **Cuadrado (1:1)** | Feed Instagram/Facebook, PDP, Google Shopping | Confianza, apreciación de materiales y conversión | CTR / CVR (Conversion Rate) |
+| **Vertical (9:16)** | Instagram Stories, Reels, TikTok | Branding contextual, tráfico móvil y alcance | CPM / CPC / VTR |
+| **Micro-video Motion** | Meta Ads (Reels), TikTok Ads | Retención de audiencia y reducción de fricción publicitaria | Hook Rate (3s) / ROAS |
 
 ---
 
-## ⚙️ Stack de Herramientas
-* **IA Generativa Visual:** Midjourney, Stable Diffusion, Runway, Kling AI, Luma.
-* **Diseño y Post-edición:** Adobe Photoshop.
-* **E-commerce & Operaciones:** Shopify, WooCommerce, Gestión de Catálogos, Excel avanzado.
-* **Automatización:** Flujos asistidos por IA y optimización de procesos digitales.
+## ⚙️ Stack Tecnológico & Habilidades Clave
+* **IA Generativa Visual:** Midjourney, Stable Diffusion (Inpainting/ControlNet), Runway, Kling AI, Luma.
+* **Diseño y Post-edición:** Adobe Photoshop (retoque, balance cromático y composición).
+* **E-commerce & Catálogo:** Shopify, WooCommerce, gestión masiva de activos y hojas de cálculo avanzadas.
+* **Automatización & Flujos:** Procesos asistidos por IA para escalabilidad y reducción de tiempos de producción.
+* 
