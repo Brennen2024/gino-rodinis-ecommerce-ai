@@ -43,12 +43,7 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 ### 3. Activo Audiovisual (Motion / Video Ads)
 *Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía de catálogo:*
 
-https://github.com/user-attachments/assets/CarteraGR.mp4.mp4
-
-<video src="CarteraGR.mp4.mp4" controls width="320">
-  Tu navegador no soporta el tag de video.
-</video>
-
+▶️ **[Hacer clic aquí para reproducir el video de la Mochila GR](CarteraGR.mp4.mp4)**
 ---
 
 ## 📊 Matriz Estratégica de Formatos
