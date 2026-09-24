@@ -22,7 +22,16 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 
 ## 📸 Galería de Activos Desarrollados
 
-### 1. Formato Cuadrado (1:1) — Feed Instagram, Facebook & Catálogo
+### 1. Caso de Aplicación: Mochila Acolchada GR (De Catálogo a Campaña Dinámica)
+*Transformación de fotografía de estudio a escena publicitaria urbana (Before & After):*
+
+| Activo Original (Catálogo Fondo Blanco) | Contexto Lifestyle & Campaña Dinámica |
+| :---: | :---: |
+| ![Mochila Original](Mochila-2107-negro-1.jpg) | ▶️ **[Ver Video Motion en Alta Definición](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)** |
+
+---
+
+### 2. Formato Cuadrado (1:1) — Feed Instagram, Facebook & Catálogo
 *Tomas de detalle y composición enfocadas en materialidad, herrajes y textura:*
 
 | Billetera Clásica GR | Billetera Azul Navy |
@@ -31,19 +40,13 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 
 ---
 
-### 2. Formato Vertical (9:16) — Stories, TikTok & Reels
+### 3. Formato Vertical (9:16) — Stories, TikTok & Reels
 *Composiciones verticales de estilo de vida y banners para pauta móvil:*
 
 | Bolso Urbano en Tránsito | Detalle Lifestyle Tienda | Banner de Campaña 9:16 |
 | :---: | :---: | :---: |
 | ![Bolso Viaje](Bolso9.16.jpeg) | ![Bolso Lifestyle](bolsoc9.16.png) | ![Banner 9:16](banner9.16.png) |
 
----
-
-### 3. Activo Audiovisual (Motion / Video Ads)
-*Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía de catálogo:*
-
-▶️ **[Hacer clic aquí para reproducir el video de la Mochila GR](CarteraGR.mp4.mp4)**
 ---
 
 ## 📊 Matriz Estratégica de Formatos
