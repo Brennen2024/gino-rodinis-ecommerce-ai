@@ -1,78 +1,54 @@
-# Portafolio: IA Generativa & Estrategia Visual Multicanal
-**Candidato:** Juan Ignacio Núñez Carrasco  
-**Posición:** Analista Ecommerce & IA Generativa — Gino Rodinis  
+# Gino Rodinis — E-commerce AI Assets
 
----
-
-## 📌 Resumen Ejecutivo
-Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artificial Generativa**, **Estrategia Visual Multicanal** y optimización de contenido publicitario para el catálogo y canales digitales de **Gino Rodinis**. 
-
-El objetivo central de este proyecto es demostrar cómo transformar activos de producto convencionales en piezas publicitarias y editoriales de alto impacto comercial, preservando estrictamente la identidad de marca, materialidad del cuero, costuras y herrajes metálicos distintivos.
-
----
-
-## 🎨 Pipeline Metodológico de Producción con IA
-
-1. **Selección del Activo Base:** Fotografías de producto en estudio (fondo blanco o catálogo neutro) de marroquinería de Gino Rodinis.
-2. **Generación Contextual (Image-to-Image / Inpainting):** Integración del producto en locaciones de alto valor percibido (estilo de vida urbano europeo, sets minimalistas y entornos de viaje ejecutivo) manteniendo escala y proporción natural.
-3. **Control de Fidelidad de Producto:** Uso de máscaras de preservación y consistencia para evitar deformaciones en herrajes, texturas y logotipos grabados.
-4. **Optimización por Canal de Destino:** Adaptación de composición y aire de encuadre según el punto de contacto (1:1 para Feed/Catálogo y 9:16 para Stories/Reels/TikTok).
-5. **Post-producción Digital:** Calibración de colorimetría, recorte y micro-contraste en Adobe Photoshop.
-6. **Motion Ads & Animación:** Conversión de tomas estáticas a micro-video dinámico para mejorar tasas de retención (Thumbstop Ratio) en pauta pagada.
+Repositorio de activos visuales generados con IA para campañas de e-commerce, catálogo PDP, redes sociales y pauta pagada.
 
 ---
 
 ## 📸 Galería de Activos Desarrollados
 
 ### 1. Formato Cuadrado (1:1) — Campañas de Feed, Catálogo PDP & Google Shopping
+
 *Enfoque en valor percibido, apreciación de materiales, textura de cuero y escenarios editoriales:*
 
-| | Campaña Editorial: Maletín Ejecutivo (Londres) | Detalle de Producto: Billetera Azul Navy | Bodegón Minimalista: Billetera Clásica GR |
-| :---: | :---: | :---: |
-| <img src="maletin1.1.png" width="280" alt="Maletín Ejecutivo Londres 1:1" /> | <img src="walletazul1.1.png" width="280" alt="Billetera Azul Navy 1:1" /> | <img src="wallet%20GR%201.1.png" width="280" alt="Billetera Clásica GR 1:1" /> | 
+| Campaña Editorial: Maletín Ejecutivo (Londres) | Detalle de Producto: Billetera Azul Navy | Bodegón Minimalista: Billetera Clásica GR |
+|:---:|:---:|:---:|
+| [![Maletín Ejecutivo Londres](maletinGR1.1.jpeg)](maletinGR1.1.jpeg) | [![Billetera Azul Navy](walletazul1.1.png)](walletazul1.1.png) | [![Billetera Clásica GR](walletGR1.1.png)](walletGR1.1.png) |
 
-#### Estrategia y Casos de Uso (1:1):
-* **Campaña Editorial Masculina (`maletin1.1.png`):** Posicionamiento aspiracional en exteriores internacionales. Formato optimizado para carruseles de Instagram, pauta de consideración en Meta Ads y cabeceras de categoría ejecutiva.
-* **Toma de Textura & Color (`walletazul1.1.png`):** Enfoque macro en grano de cuero y logotipo en relieve. Diseñado para reducir la tasa de devolución y aumentar la tasa de conversión en la página de producto (PDP).
-* **Composición Bodegón (`wallet GR 1.1.png`):** Integración con accesorios de viaje y paleta neutra para campañas comerciales de temporada (Día del Padre, Cyber) y Anuncios Dinámicos de Producto (DPA).
+**Estrategia y Casos de Uso (1:1):**
 
----
-
-### 2. Formato Vertical (9:16) — Stories, TikTok Ads & Reels
-*Composiciones verticales de estilo de vida, banners promocionales y formatos nativos para dispositivos móviles:*
-
-| Bolso Urbano en Tránsito | Detalle Lifestyle Tienda | Banner Promocional de Campaña |
-| :---: | :---: | :---: |
-| <img src="Bolso9.16.jpeg" width="220" alt="Bolso Urbano 9:16" /> | <img src="bolsoc9.16.png" width="220" alt="Detalle Lifestyle Tienda 9:16" /> | <img src="banner9.16.png" width="220" alt="Banner Campaña 9:16" /> |
-
-#### Estrategia y Casos de Uso (9:16):
-* **Contexto de Movilidad (`Bolso9.16.jpeg`):** Pieza diseñada para conectar con el público profesional joven en desplazamiento diario, maximizando engagement orgánico y conversiones directas en Stories.
-* **Experiencia de Tienda (`bolsoc9.16.png`):** Contexto lifestyle enfocado en look & feel premium para captación en TikTok Ads y Reels.
-* **Banner Comercial 9:16 (`banner9.16.png`):** Estructura visual con espacio reservado para copy comercial, llamadas a la acción (CTA) o stickers interactivos de Instagram.
+- **Campaña Editorial Masculina** (`maletinGR1.1.jpeg`): Posicionamiento aspiracional en exteriores internacionales. Formato optimizado para carrusel de Instagram/Facebook Ads y banners de catálogo.
+- **Detalle de Producto** (`walletazul1.1.png`): Enfoque en textura y materiales, ideal para página de producto (PDP) y ficha técnica.
+- **Bodegón Minimalista** (`walletGR1.1.png`): Composición limpia sobre fondo neutro, pensada para Google Shopping y catálogo de Meta.
 
 ---
 
-### 3. Activo Audiovisual Dinámico (Motion / Video Ads)
-*Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía estática de producto:*
+### 2. Formato Vertical (9:16) — Historias, Reels & Anuncios Móviles
 
-▶️ **[Hacer clic aquí para reproducir el Video Motion de la Mochila GR en pantalla completa](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)**
+*Piezas verticales para consumo full-screen en mobile:*
 
-* **Objetivo Publicitario:** Frenar el scroll del usuario en los primeros 3 segundos (Thumbstop Ratio) para reducir el Costo por Clic (CPC) y mejorar el retorno de la inversión publicitaria (ROAS).
+| Bolso Editorial | Bolso Detalle |
+|:---:|:---:|
+| [![Bolso Editorial 9:16](Bolso9.16.jpeg)](Bolso9.16.jpeg) | [![Bolso Detalle 9:16](bolsoc9.16.png)](bolsoc9.16.png) |
 
----
+**Estrategia y Casos de Uso (9:16):**
 
-## 📊 Matriz Estratégica de Formatos & KPIs
-
-| Formato | Canales | Objetivo Estratégico | KPI Principal |
-| :--- | :--- | :--- | :--- |
-| **Cuadrado (1:1)** | Feed Instagram/Facebook, PDP, Google Shopping | Confianza, apreciación de materiales y conversión | CTR / CVR (Conversion Rate) |
-| **Vertical (9:16)** | Instagram Stories, Reels, TikTok | Branding contextual, tráfico móvil y alcance | CPM / CPC / VTR |
-| **Micro-video Motion** | Meta Ads (Reels), TikTok Ads | Retención de audiencia y reducción de fricción publicitaria | Hook Rate (3s) / ROAS |
+- **Bolso Editorial** (`Bolso9.16.jpeg`): Pieza tipo lifestyle/editorial para Stories e Instagram Reels.
+- **Bolso Detalle** (`bolsoc9.16.png`): Close-up de materiales y herrajes, útil para destacar calidad del producto en anuncios verticales.
 
 ---
 
-## ⚙️ Stack Tecnológico & Habilidades Clave
-* **IA Generativa Visual:** Midjourney, Stable Diffusion (Inpainting/ControlNet), Runway, Kling AI, Luma.
-* **Diseño y Post-edición:** Adobe Photoshop (retoque, balance cromático y composición).
-* **E-commerce & Catálogo:** Shopify, WooCommerce, gestión masiva de activos y hojas de cálculo avanzadas.
-* **Automatización & Flujos:** Procesos asistidos por IA para escalabilidad y reducción de tiempos de producción.
+### 3. Banners Horizontales
+
+*Para hero de sitio web, headers de campaña y pauta display:*
+
+[![Banner principal](banner9.16.png)](banner9.16.png)
+
+---
+
+### 4. Video
+
+- **Cartera GR — Video de Producto** (`CarteraGR.mp4`): [Ver video](CarteraGR.mp4)
+
+---
+
+## 🗂 Estructura del Repositorio
