@@ -12,8 +12,8 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 ## 🎨 Casos Visuales de IA Generativa & Social Media
 
 ### Metodología & Pipeline de Trabajo
-1. **Activo Base de Producto:** Fotografías en estudio/catálogo de marroquinería (billeteras, bolsos de hombro y mochilas).
-2. **Generación Contextual (Image-to-Image / Inpainting):** Integración en entornos de estilo de vida y alta gama (lifestyle urbano, set minimalista y viaje casual), manteniendo proporción, costuras y branding distintivo.
+1. **Activo Base de Producto:** Fotografías en estudio/catálogo de marroquinería (billeteras, bolsos de hombro, maletines ejecutivos y mochilas).
+2. **Generación Contextual (Image-to-Image / Inpainting):** Integración en entornos de estilo de vida y alta gama (lifestyle urbano, set minimalista y viaje de negocios), manteniendo proporción, costuras y branding distintivo.
 3. **Optimización Multicanal:** Adaptación de encuadres por canal de destino (1:1 para Feed/Catálogo y 9:16 para Stories/Reels).
 4. **Post-producción:** Ajuste de colorimetría, recorte y nitidez en Adobe Photoshop.
 5. **Animación y Motion Ads:** Conversión de tomas fijas a micro-video dinámico para mejorar tasas de retención (Thumbstop Ratio) y CTR en Meta Ads y TikTok.
@@ -22,12 +22,14 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 
 ## 📸 Galería de Activos Desarrollados
 
-### 1. Caso de Aplicación: Mochila Acolchada GR (De Catálogo a Campaña Dinámica)
-*Transformación de fotografía de estudio a escena publicitaria urbana (Before & After):*
+### 1. Campaña Editorial Ejecutiva (Línea Maletines GR)
+*Integración fotorrealista de producto en entorno internacional de alta gama (Londres):*
 
-| Activo Original (Catálogo Fondo Blanco) | Contexto Lifestyle & Campaña Dinámica |
-| :---: | :---: |
-| ![Mochila Original](Mochila-2107-negro-1.jpg) | ▶️ **[Ver Video Motion en Alta Definición](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)** |
+| Maletín Ejecutivo Gino Rodinis |
+| :---: |
+| ![Maletín Ejecutivo](maletin1.1.jpg) |
+
+*(Si tu archivo terminó en `.png`, solo cambia la extensión a `maletin1.1.png`)*
 
 ---
 
@@ -49,10 +51,18 @@ Portafolio técnico enfocado en la aplicación práctica de **Inteligencia Artif
 
 ---
 
+### 4. Activo Audiovisual (Motion / Video Ads)
+*Demostración de generación dinámica para formato Reels / TikTok Ads a partir de fotografía de catálogo:*
+
+▶️ **[Ver Video Motion de Mochila GR en Alta Definición](https://raw.githubusercontent.com/Brennen2024/gino-rodinis-ecommerce-ai/main/CarteraGR.mp4.mp4)**
+
+---
+
 ## 📊 Matriz Estratégica de Formatos
 
 | Formato | Canales | Objetivo Principal | Métrica Clave |
 | :--- | :--- | :--- | :--- |
+| **Editorial / Lifestyle** | Campañas, Home Banner, Lookbook | Posicionamiento de marca y valor percibido | ROAS / Retención de Marca |
 | **Cuadrado (1:1)** | Feed Instagram, Facebook, PDP | Confianza, detalle de producto y adquisición | CTR / Tasa de Conversión |
 | **Vertical (9:16)** | Stories, Reels, TikTok | Branding contextual, alcance y engagement | VTR / Costo por Clic (CPC) |
 | **Micro-video Motion** | Meta Ads, TikTok Ads | Retención de audiencia y reducción de fricción | Thumbstop Ratio (3s) / ROAS |
