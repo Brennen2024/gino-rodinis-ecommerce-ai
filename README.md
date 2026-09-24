@@ -29,12 +29,12 @@ El objetivo central de este proyecto es demostrar cómo transformar activos de p
 
 | Campaña Editorial: Maletín Ejecutivo (Londres) | Detalle de Producto: Billetera Azul Navy | Bodegón Minimalista: Billetera Clásica GR |
 | :---: | :---: | :---: |
-| <img src="maletin-londres.png" width="280" alt="Maletín Ejecutivo Londres 1:1" /> | <img src="wallet-azul.png" width="280" alt="Billetera Azul Navy 1:1" /> | <img src="wallet-marron.png" width="280" alt="Billetera Clásica GR 1:1" /> |
+| <img src="maletin1.1.png" width="280" alt="Maletín Ejecutivo Londres 1:1" /> | <img src="walletazul1.1.png" width="280" alt="Billetera Azul Navy 1:1" /> | <img src="wallet GR 1.1.png" width="280" alt="Billetera Clásica GR 1:1" /> |
 
 #### Estrategia y Casos de Uso (1:1):
-* **Campaña Editorial Masculina (`maletin-londres.png`):** Posicionamiento aspiracional en exteriores internacionales. Formato optimizado para carruseles de Instagram, pauta de consideración en Meta Ads y cabeceras de categoría ejecutiva.
-* **Toma de Textura & Color (`wallet-azul.png`):** Enfoque macro en grano de cuero y logotipo en relieve. Diseñado para reducir la tasa de devolución y aumentar la tasa de conversión en la página de producto (PDP).
-* **Composición Bodegón (`wallet-marron.png`):** Integración con accesorios de viaje y paleta neutra para campañas comerciales de temporada (Día del Padre, Cyber) y Anuncios Dinámicos de Producto (DPA).
+* **Campaña Editorial Masculina (`maletin1.1.png`):** Posicionamiento aspiracional en exteriores internacionales. Formato optimizado para carruseles de Instagram, pauta de consideración en Meta Ads y cabeceras de categoría ejecutiva.
+* **Toma de Textura & Color (`walletazul1.1.png`):** Enfoque macro en grano de cuero y logotipo en relieve. Diseñado para reducir la tasa de devolución y aumentar la tasa de conversión en la página de producto (PDP).
+* **Composición Bodegón (`wallet GR 1.1.png`):** Integración con accesorios de viaje y paleta neutra para campañas comerciales de temporada (Día del Padre, Cyber) y Anuncios Dinámicos de Producto (DPA).
 
 ---
 
@@ -43,12 +43,12 @@ El objetivo central de este proyecto es demostrar cómo transformar activos de p
 
 | Bolso Urbano en Tránsito | Detalle Lifestyle Tienda | Banner Promocional de Campaña |
 | :---: | :---: | :---: |
-| <img src="bolso-metro.jpeg" width="220" alt="Bolso Urbano 9:16" /> | <img src="bolso-tienda.png" width="220" alt="Detalle Lifestyle Tienda 9:16" /> | <img src="banner-campana.png" width="220" alt="Banner Campaña 9:16" /> |
+| <img src="Bolso9.16.jpeg" width="220" alt="Bolso Urbano 9:16" /> | <img src="bolsoc9.16.png" width="220" alt="Detalle Lifestyle Tienda 9:16" /> | <img src="banner9.16.png" width="220" alt="Banner Campaña 9:16" /> |
 
 #### Estrategia y Casos de Uso (9:16):
-* **Contexto de Movilidad (`bolso-metro.jpeg`):** Pieza diseñada para conectar con el público profesional joven en desplazamiento diario, maximizando engagement orgánico y conversiones directas en Stories.
-* **Experiencia de Tienda (`bolso-tienda.png`):** Contexto lifestyle enfocado en look & feel premium para captación en TikTok Ads y Reels.
-* **Banner Comercial 9:16 (`banner-campana.png`):** Estructura visual con espacio reservado para copy comercial, llamadas a la acción (CTA) o stickers interactivos de Instagram.
+* **Contexto de Movilidad (`Bolso9.16.jpeg`):** Pieza diseñada para conectar con el público profesional joven en desplazamiento diario, maximizando engagement orgánico y conversiones directas en Stories.
+* **Experiencia de Tienda (`bolsoc9.16.png`):** Contexto lifestyle enfocado en look & feel premium para captación en TikTok Ads y Reels.
+* **Banner Comercial 9:16 (`banner9.16.png`):** Estructura visual con espacio reservado para copy comercial, llamadas a la acción (CTA) o stickers interactivos de Instagram.
 
 ---
 
@@ -76,4 +76,3 @@ El objetivo central de este proyecto es demostrar cómo transformar activos de p
 * **Diseño y Post-edición:** Adobe Photoshop (retoque, balance cromático y composición).
 * **E-commerce & Catálogo:** Shopify, WooCommerce, gestión masiva de activos y hojas de cálculo avanzadas.
 * **Automatización & Flujos:** Procesos asistidos por IA para escalabilidad y reducción de tiempos de producción.
-* 
