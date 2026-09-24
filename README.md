@@ -27,9 +27,9 @@ El objetivo central de este proyecto es demostrar cómo transformar activos de p
 ### 1. Formato Cuadrado (1:1) — Campañas de Feed, Catálogo PDP & Google Shopping
 *Enfoque en valor percibido, apreciación de materiales, textura de cuero y escenarios editoriales:*
 
-| Campaña Editorial: Maletín Ejecutivo (Londres) | Detalle de Producto: Billetera Azul Navy | Bodegón Minimalista: Billetera Clásica GR |
+| | Campaña Editorial: Maletín Ejecutivo (Londres) | Detalle de Producto: Billetera Azul Navy | Bodegón Minimalista: Billetera Clásica GR |
 | :---: | :---: | :---: |
-| <img src="maletin1.1.png" width="280" alt="Maletín Ejecutivo Londres 1:1" /> | <img src="walletazul1.1.png" width="280" alt="Billetera Azul Navy 1:1" /> | <img src="wallet GR 1.1.png" width="280" alt="Billetera Clásica GR 1:1" /> |
+| <img src="maletin1.1.png" width="280" alt="Maletín Ejecutivo Londres 1:1" /> | <img src="walletazul1.1.png" width="280" alt="Billetera Azul Navy 1:1" /> | <img src="wallet%20GR%201.1.png" width="280" alt="Billetera Clásica GR 1:1" /> | 
 
 #### Estrategia y Casos de Uso (1:1):
 * **Campaña Editorial Masculina (`maletin1.1.png`):** Posicionamiento aspiracional en exteriores internacionales. Formato optimizado para carruseles de Instagram, pauta de consideración en Meta Ads y cabeceras de categoría ejecutiva.
